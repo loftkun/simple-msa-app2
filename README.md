@@ -1,1 +1,1 @@
-# simple-msa-app1
+# simple-msa-app2
